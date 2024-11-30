@@ -3,7 +3,7 @@ Rental house dataset in Saudi Arabia
 
 This is an English translation of the Saudi Arabia Real Estate (AQAR) dataset, which was obtained from this [source](https://www.kaggle.com/datasets/lama122/saudi-arabia-real-estate-aqar).
 
-The goal of this statistical analysis is to understand the relationship between house features and how these variables can be used to predict house prices in three cities: Riyadh, Jeddah, Dammam, and Al-Khobar.
+The goal of this statistical analysis is to understand the relationship between house features and how these variables can be used to predict house prices in four cities: Riyadh, Jeddah, Dammam, and Al-Khobar.
 
 This dataset focuses only on rental houses.
 
